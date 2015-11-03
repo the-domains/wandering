@@ -1,0 +1,23 @@
+name: Wandering
+favicon: null
+layout_spectrum: 0.5671776281669736
+typography_spectrum: 0.9036732339300215
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.14758448977954686
+  lightness: 0.4089465965516865
+  saturation: 0.5733756676781923
+  rhythmicContrast: 0.0020668550860136747
+purpose: []
